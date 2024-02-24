@@ -1,4 +1,4 @@
-# Movie Recommender System using Machine Learning Model
+# Movie Recommender System 
 This repository contains a Movie Recommender System based on machine learning models. The system suggests movies to users based on their preferences and behavior.
 
 ## Overview
